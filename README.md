@@ -7,6 +7,9 @@ Bem-vindo ao repositório dedicado à previsão de arritmia utilizando redes neu
 ## Conjunto de Dados
 O Conjunto de Dados de Categorização de Batimentos Cardíacos por ECG é a base deste projeto. Ele contém sinais de ECG pré-processados e segmentados, sendo adequado para treinar modelos de CNN para classificação de batimentos cardíacos.
 
+## Origem do Conjunto de Dados
+Nosso conjunto de dados foi derivado do PhysioNet, uma biblioteca de recursos de sinais fisiológicos. O PhysioNet fornece amostras de sinais de ECG com duração de 10 segundos para uma variedade de aplicações médicas e de pesquisa. No entanto, para nosso conjunto de dados específico, realizamos um reamostragem, extraindo apenas 1 segundo dos 10 segundos originais de batimentos cardíacos registrados. Essa abordagem nos permite criar um conjunto de dados mais compacto e focado, mantendo a representatividade dos batimentos cardíacos para análise de arritmias.
+
 ## Abordagem
 Nossa abordagem consiste em treinar e avaliar modelos de CNN para classificar os sinais de ECG em diferentes categorias de batimentos cardíacos, incluindo arritmias. Vamos explorar diferentes arquiteturas de CNN, técnicas de pré-processamento de dados e estratégias de treinamento para obter o melhor desempenho na previsão de arritmia.
 
