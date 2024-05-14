@@ -27,6 +27,7 @@ Bem-vindo ao repositório dedicado à previsão de arritmia mediante uso de rede
 ## O que é um ECG (por wikpedia, texto adaptado):
 "Um eletrocardiograma (identificado com as abreviações ECG e EKG[1]) é a reprodução gráfica da atividade elétrica do coração durante o seu funcionamento, registada a partir da superfície do corpo."
 ![image](https://github.com/elementare/cardiowave/assets/135054073/9d79aa50-40e0-4a26-9caf-a69bd23ca6ab)
+
 "O aparelho que registra o eletrocardiograma é o eletrocardiógrafo. São usados sensores no tórax, punhos e tornozelos, podendo ser realizado com os sensores apenas no tórax."
 
 ## Conjunto de Dados
