@@ -7,11 +7,11 @@ No dia 5 de maio de 1573, na calma da noite estrelada de Iluminis, um murmúrio 
 
 Edna Ensineide, a acadêmica aposentada — uma vez conselheira real de destaque —, agora encontrava-se nas sombras do palácio; seus olhos cansados refletiam a angústia que assolava o reino. Ela sabia que havia algo de errado com o rei, indo além das ameaças externas que o cercavam.
 
-Os cientistas do reino, liderados por Edna e auxiliados pelo empresário misterioso João Gruta, haviam detectado os sinais perturbadores que emanavam do coração do rei. As batidas descompassadas, os suspiros cansados… Todos apontavam para uma aflição que nenhum deles ousava nomear. Poderia ser a sua terrível arritmia cardíaca!
+Os cientistas do reino, liderados por Edna e auxiliados pelo empresário misterioso João Gruta, haviam detectado os sinais perturbadores que emanavam do coração do rei. As batidas descompassadas, os suspiros cansados… Todos apontavam para uma aflição que nenhum deles ousava nomear. Poderia ser a sua terrível arritmia cardíaca, causada pelos constantes ataques de montros ao seu reinado!
 
-Enquanto isso, Klunk, o bárbaro meio-orc, estava decidido a fazer o que pudesse para ajudar seu rei-Klunk ajuda, REI DOENTE!-. Com sua lealdade inabalável e determinação feroz, assim permanecia ao lado do monarca, pronto para enfrentar qualquer desafio que se apresentasse.
+Enquanto isso, Klunk, o bárbaro meio-orc, estava decidido a fazer o que pudesse para ajudar seu rei-Klunk ajuda, REI DOENTE!-. Com sua lealdade inabalável e determinação feroz(mesmo não sendo dotado de muita inteligencia), assim permanecia ao lado do monarca.
 
-Em uma noite silenciosa, enquanto as estrelas cintilavam no céu escuro, os cientistas do reino reuniram-se em um laboratório secreto, determinados a encontrar uma solução para a aflição do rei. Usando seus conhecimentos em magia e ciência, criaram juntos um artefato mágico capaz de ler os batimentos cardíacos do rei com precisão incomparável.
+Em uma noite silenciosa, enquanto as estrelas cintilavam no céu escuro, os cientistas do reino reuniram-se no laboratório secreto do palacio, determinados a encontrar uma solução para a aflição do rei. Usando seus conhecimentos em magia e ciência, criaram juntos um artefato mágico capaz de ler os batimentos cardíacos do rei com precisão incomparável.
 
 O Coração de Cristal, como foi chamado, brilhava com uma luz suave e pulsante, refletindo a essência do coração do rei; com ele, os cientistas podiam observar os ritmos irregulares que assombravam o monarca, comparados a ondas inconstantes de um oceano agitado.
 
