@@ -39,10 +39,27 @@ Nosso conjunto de dados é derivado do PhysioNet, uma biblioteca de recursos de 
 Esta abordagem consiste em treinar e avaliar modelos de CNN para classificar os sinais de ECG em diferentes categorias de batimentos cardíacos, incluindo arritmias; explorar-se-ão diferentes arquiteturas de CNN, técnicas de pré-processamento de dados e estratégias de treinamento para obter o melhor desempenho na previsão de arritmia.
 
 ## Estrutura do Projeto
+- `analysis_ecg.ipynb` O notebook usado para pré-processar e treinar nossa rede neural
 
-- `notebooks/`: Notebooks de exemplo demonstrando a preparação dos dados, treinamento dos modelos e avaliação dos resultados.
-- `results/`: Resultados da avaliação dos modelos, incluindo métricas de desempenho e visualizações.
-
+Não foi possível upar o Dataset no github por ser muito longo
 
 ## Contribuindo
 Contribuições para este projeto são bem-vindas! Se você tiver sugestões, melhorias ou gostaria de contribuir com novos modelos, abra um problema ou envie uma solicitação pull.
+
+## Referências
+
+**Physionet Dataset:** https://www.physionet.org/content/mitdb/1.0.0/
+
+**ECG Heartbeat Categorization Dataset:** https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+
+**Visualização da matriz de confusão:** https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
+
+**Convolutional Neural Networks Explained (CNN Visualized):** https://www.youtube.com/watch?v=pj9-rr1wDhM&pp=ygUNV2hhdCBpcyBhIENOTg%3D%3D
+
+**Convolutional Neural Networks (CNNs) explained:** https://www.youtube.com/watch?v=YRhxdVk_sIs&pp=ygUNV2hhdCBpcyBhIENOTg%3D%3D
+
+**Introducing convolutional neural networks (ML Zero to Hero - Part 3):** https://www.youtube.com/watch?v=x_VrgWTKkiM&pp=ygUNV2hhdCBpcyBhIENOTg%3D%3D
+
+**But What is Convolution?:** https://www.youtube.com/watch?v=KuXjwB4LzSA&t=7s&pp=ygUNV2hhdCBpcyBhIENOTg%3D%3D
+
+**Hannun AY, Rajpurkar P, Haghpanahi M, Tison GH, Bourn C, Turakhia MP, Ng AY. Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network. Nat Med. 2019 Jan;25(1):65-69. doi: 10.1038/s41591-018-0268-3. Epub 2019 Jan 7. Erratum in: Nat Med. 2019 Mar;25(3):530. PMID: 30617320; PMCID: PMC6784839.**
