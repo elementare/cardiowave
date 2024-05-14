@@ -42,7 +42,7 @@ Esta abordagem consiste em treinar e avaliar modelos de CNN para classificar os 
 ## Estrutura do Projeto
 - `analysis_ecg.ipynb` O notebook usado para pré-processar e treinar nossa rede neural
 
-Não foi possível upar o Dataset no github por ser muito longo
+Não foi possível upar o Dataset no github por ser muito longo, Porém seu link está disponivel em referências.
 
 ## Contribuindo
 Contribuições para este projeto são bem-vindas! Se você tiver sugestões, melhorias ou gostaria de contribuir com novos modelos, abra um problema ou envie uma solicitação pull.
