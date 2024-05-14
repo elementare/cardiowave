@@ -23,6 +23,11 @@ E embora a batalha contra a aflição do Rei estivesse longe de terminar, havia 
 ## Visão Geral
 Bem-vindo ao repositório dedicado à previsão de arritmia utilizando redes neurais convolucionais (CNNs) treinadas com o Conjunto de Dados de Categorização de Batimentos Cardíacos por ECG! Este projeto visa desenvolver e avaliar modelos de CNN para prever a presença de arritmia em sinais de eletrocardiograma (ECG).
 
+## Oque é um ECG(por wikpedia, texo adaptado):
+"Um eletrocardiograma (identificado com as abreviações ECG e EKG[1]) é a reprodução gráfica da atividade elétrica do coração durante o seu funcionamento, registada a partir da superfície do corpo."
+![image](https://github.com/elementare/cardiowave/assets/135054073/9d79aa50-40e0-4a26-9caf-a69bd23ca6ab)
+"O aparelho que registra o eletrocardiograma é o eletrocardiógrafo. São usados sensores no tórax, punhos e tornozelos, podendo ser realizado com os sensores apenas no tórax."
+
 ## Conjunto de Dados
 O Conjunto de Dados de Categorização de Batimentos Cardíacos por ECG é a base deste projeto. Ele contém sinais de ECG pré-processados e segmentados, sendo adequado para treinar modelos de CNN para classificação de batimentos cardíacos.
 
