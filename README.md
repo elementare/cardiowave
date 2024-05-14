@@ -9,7 +9,7 @@ Edna Ensineide, a acadêmica aposentada — uma vez conselheira real de destaque
 
 Os cientistas do reino, liderados por Edna e auxiliados pelo empresário misterioso João Gruta, haviam detectado os sinais perturbadores que emanavam do coração do rei. As batidas descompassadas, os suspiros cansados… Todos apontavam para uma aflição que nenhum deles ousava nomear. Poderia ser a sua terrível arritmia cardíaca!
 
-Enquanto isso, Klunk, o bárbaro meio-orc, estava decidido a fazer o que pudesse para ajudar seu rei. Com sua lealdade inabalável e determinação feroz, assim permanecia ao lado do monarca, pronto para enfrentar qualquer desafio que se apresentasse.
+Enquanto isso, Klunk, o bárbaro meio-orc, estava decidido a fazer o que pudesse para ajudar seu rei-Klunk ajuda, REI DOENTE!-. Com sua lealdade inabalável e determinação feroz, assim permanecia ao lado do monarca, pronto para enfrentar qualquer desafio que se apresentasse.
 
 Em uma noite silenciosa, enquanto as estrelas cintilavam no céu escuro, os cientistas do reino reuniram-se em um laboratório secreto, determinados a encontrar uma solução para a aflição do rei. Usando seus conhecimentos em magia e ciência, criaram juntos um artefato mágico capaz de ler os batimentos cardíacos do rei com precisão incomparável.
 
